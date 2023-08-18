@@ -7,3 +7,36 @@ hash = "557f4b16e104bc9df4c208031882593a82b4b38d3c648d697a30f6c6d262a308"
 [[files]]
 file = "README.md"
 hash = "f5fb103724c1c08beb5e2a2f9d60ef60098958a0151db1b756c083b75c619ca4"
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "3a93a5b987d89b3ce4208d1e31b3a5636fc6363ff33896f5a7ad8961df94a236"
+metafile = true
+
+[[files]]
+file = "mods/simplechatfork.pw.toml"
+hash = "2b35c8c42b18bb5b57bb0590619ff76036a8ab550451df3b1c319578dffce90c"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "082579e9bd8277499cffab5e4bcd151f936383caf721ec9e662a0ecd5f0e3052"
+metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "20681dc60906a901b97e6593d1f547149404a808ca35d2f6bfe0e02ee26a463b"
