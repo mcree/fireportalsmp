@@ -1,0 +1,5 @@
+LICENSE
+*.mrpack
+packwiz-installer.jar
+packwiz-installer-bootstrap.jar
+packwiz.exe
