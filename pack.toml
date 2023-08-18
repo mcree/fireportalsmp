@@ -1,0 +1,13 @@
+name = "FirePortal SMP"
+author = "mcreeiw"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "355ce2b0a552cad5b73bb1027047c951e865e219ef3ae8a70d7d5eac6445d825"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.20.1"
