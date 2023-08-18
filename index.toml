@@ -47,3 +47,11 @@ metafile = true
 file = "mods/travelersbackpack.pw.toml"
 hash = "082579e9bd8277499cffab5e4bcd151f936383caf721ec9e662a0ecd5f0e3052"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "20681dc60906a901b97e6593d1f547149404a808ca35d2f6bfe0e02ee26a463b"
