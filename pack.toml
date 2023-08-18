@@ -1,12 +1,12 @@
 name = "FirePortal SMP"
 author = "mcree"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "95eb92089a4049b22f773036dd24d5b89624166428a8ab73ce4b6ded6955c6d1"
+hash = "947f88907b1f71188299617872fcf63bbe52ed762416f7b7606353d22036ad50"
 
 [versions]
 fabric = "0.14.22"

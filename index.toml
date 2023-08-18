@@ -31,8 +31,13 @@ hash = "8a5aac1dca775eb897d045f2bca8c3a0074dff82810592d2ae961ee72f4f6a1c"
 metafile = true
 
 [[files]]
-file = "mods/simplechatfork.pw.toml"
-hash = "2b35c8c42b18bb5b57bb0590619ff76036a8ab550451df3b1c319578dffce90c"
+file = "mods/simple-voice-chat-discord-bridge.pw.toml"
+hash = "db28415c8106528dc691fec17ac53328a0c5dd5b87fc56c7ab695942117732b9"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "d1fd60244620ca922e5c356679f49e126bb91620d58fd771983d7e6e631fcba9"
 metafile = true
 
 [[files]]
