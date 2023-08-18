@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "f5fb103724c1c08beb5e2a2f9d60ef60098958a0151db1b756c083b75c619ca4"
-
-[[files]]
 file = "mods/better-whitelist.pw.toml"
 hash = "4172d42dd040015732dcb603dc80e6b6bf0ce9d6568138b6d42f6a8872bccf01"
 metafile = true
