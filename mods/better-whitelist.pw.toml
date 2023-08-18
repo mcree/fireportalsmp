@@ -1,0 +1,13 @@
+name = "Better Whitelist"
+filename = "better-whitelist-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FXyXxB6A/versions/1NkouWJ8/better-whitelist-1.0.2.jar"
+hash-format = "sha1"
+hash = "627c763b6e497d3ea17a177e742b47c9fb65b0e6"
+
+[update]
+[update.modrinth]
+mod-id = "FXyXxB6A"
+version = "1NkouWJ8"

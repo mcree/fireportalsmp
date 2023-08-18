@@ -9,6 +9,11 @@ file = "README.md"
 hash = "f5fb103724c1c08beb5e2a2f9d60ef60098958a0151db1b756c083b75c619ca4"
 
 [[files]]
+file = "mods/better-whitelist.pw.toml"
+hash = "4172d42dd040015732dcb603dc80e6b6bf0ce9d6568138b6d42f6a8872bccf01"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
@@ -19,8 +24,18 @@ hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
+file = "mods/custom-splash-screen.pw.toml"
+hash = "f198f659f5f32d20d5a503c3599a217e6c2d3c44a139d62f5d899201fefae708"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "3a93a5b987d89b3ce4208d1e31b3a5636fc6363ff33896f5a7ad8961df94a236"
+metafile = true
+
+[[files]]
+file = "mods/libjf.pw.toml"
+hash = "8a5aac1dca775eb897d045f2bca8c3a0074dff82810592d2ae961ee72f4f6a1c"
 metafile = true
 
 [[files]]
